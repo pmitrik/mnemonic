@@ -1,0 +1,2 @@
+# mnemonic
+example mnemonic task
